@@ -22,4 +22,8 @@ public class Main {
   public static Gson getGson() {
     return gson;
   }
+
+  public static Gson GETGSON() {
+    return gson;
+  }
 }
